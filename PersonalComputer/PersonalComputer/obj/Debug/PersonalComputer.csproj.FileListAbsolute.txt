@@ -1,0 +1,14 @@
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.exe.config
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.exe
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.pdb
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.csprojAssemblyReference.cache
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.exe
+D:\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.pdb
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.exe.config
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.exe
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\bin\Debug\PersonalComputer.pdb
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.csprojAssemblyReference.cache
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.csproj.CoreCompileInputs.cache
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.exe
+E:\Documents\YandexDisk\Документы\Saber3d.com\ТЗ\PersonalComputer\PersonalComputer\obj\Debug\PersonalComputer.pdb

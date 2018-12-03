@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="PersonalComputer.ComputerClass">
+    <Position X="13" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComputerClass\ComputerClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.ComputerShop">
+    <Position X="16" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>ComputerShop\ComputerShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Customer">
+    <Position X="8" Y="7.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAgAAAAAAAgAAAAACAAAAAAAAAQ=</HashCode>
+      <FileName>ComputerShop\Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.TechnicalSpecialist">
+    <Position X="2.75" Y="10.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Person\Parts\TechnicalSpecialist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.User">
+    <Position X="5.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person\Parts\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Person">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Person\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.UserPC">
+    <Position X="2.75" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAABAAIAAAAAAAAAAAIAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Person\UserPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Application">
+    <Position X="10.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAABAAAAA=</HashCode>
+      <FileName>PersonalComputer\OperationSystem\Application.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.OperationSystem" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAgASAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>PersonalComputer\OperationSystem\OperationSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Linux">
+    <Position X="7.75" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\OperationSystem\Systems\Linux.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.MacOS">
+    <Position X="3.25" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\OperationSystem\Systems\MacOS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Windows">
+    <Position X="5.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\OperationSystem\Systems\Windows.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.ComputerCase">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\Parts\ComputerCase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.ComputerComponent" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAABgAAAAAAAAAAYAAAAAAAAAgAAAA=</HashCode>
+      <FileName>PersonalComputer\Parts\ComputerComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.CPU">
+    <Position X="7.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEBAAAgAABAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\Parts\CPU.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.Motherboard">
+    <Position X="2.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAEBAAAAAIAAAAAAQAAACAAAAAAAAA=</HashCode>
+      <FileName>PersonalComputer\Parts\Motherboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.PersonalComputer" BaseTypeListCollapsed="true">
+    <Position X="10.5" Y="2.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>kBAAgBgAAQABAAAEAAAAAAQAAAAAAAAAQAAAAQSAAAA=</HashCode>
+      <FileName>PersonalComputer\PersonalComputer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="PersonalComputer.Program">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PersonalComputer.ScrapMetalCollectionSystem">
+    <Position X="14.25" Y="3" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>BgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems\ScrapMetalCollectionSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="PersonalComputer.IProduct">
+    <Position X="14.25" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComputerShop\IProduct.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="PersonalComputer.Socket">
+    <Position X="12.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABgYAgAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PersonalComputer.Chipset">
+    <Position X="10.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PersonalComputer.Manufacturer">
+    <Position X="14" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAIAAABAAAAAAAAAAAAAAAAAAAAAAFAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PersonalComputer.MemoryType">
+    <Position X="10.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QCMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PersonalComputer.ComputerState">
+    <Position X="12.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>PersonalComputer\PersonalComputer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
